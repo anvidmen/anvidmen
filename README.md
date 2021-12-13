@@ -11,8 +11,6 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Angular**.
-
 - 👨‍💻 All of my projects are available at [portfolio](https://anvidmen.netlify.app).
 
 - 💬 Ask me about **React, Javascript, MongoDB, and among other tech skills, either frontend or backend**.
