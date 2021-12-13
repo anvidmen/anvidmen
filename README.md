@@ -55,7 +55,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://dri.es/files/cache/blog/mysql-logo-1440w.jpg" alt="mysql" width="40" height="40"/>
+    <img src="https://trellat.es/wp-content/uploads/2015/02/mysql.jpg" alt="mysql" width="40" height="40"/>
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/>
@@ -86,5 +86,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvidmen&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvidmen)
