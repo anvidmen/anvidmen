@@ -16,5 +16,3 @@
 - 💬 Ask me about **React, Javascript, MongoDB, and among other tech skills, either frontend or backend**.
 
 - 📫 How to reach me **anvidmen@gmail.com**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvidmen&show_icons=true&theme=merko)
